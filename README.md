@@ -9,7 +9,7 @@ Please make sure you have docker installed on your system before continuing.
 You may get docker at : https://www.docker.com/get-started
 
 ## Step 2 : Clone the Github Repository
-Clone this repo via the command line or additionally you may visit : https://git.io/JJjl0 in your web browser and download the repo source code by clicking the green code download button
+Clone this repo via the command line or additionally you may download the repo directly through your web browser code by clicking the green code download button on github
 
 ```bash
 $ git clone https://github.com/swinb0/Harry-Potter-Character-DB.git
