@@ -49,7 +49,7 @@ PLEASE NOTE by executing the following commands you will remove all docker image
 
 ```bash
 $ docker system prune
-$ docker images prune -a
+$ docker image prune -a
 ```
 
 # References
