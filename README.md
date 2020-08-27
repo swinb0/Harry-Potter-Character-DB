@@ -1,6 +1,6 @@
 # Installation Notes
 
-The following document explains the process required in order to run the laravel application.
+The following document explains the complete process required for running the laravel application as well as the removal of it afterwards.
 
 ---
 
