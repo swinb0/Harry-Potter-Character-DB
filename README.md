@@ -48,8 +48,8 @@ PLEASE NOTE by executing the following commands you will remove all docker image
 
 
 ```bash
-$ docker system prune
-$ docker image prune -a
+$ docker stop $(docker ps -a -q)
+$ docker system prune -a
 ```
 
 # References
