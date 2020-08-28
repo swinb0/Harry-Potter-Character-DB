@@ -40,6 +40,7 @@ app_1  | Laravel development server started: http://0.0.0.0:8000
 app_1  | PHP 7.4.9 Development Server (http://0.0.0.0:8000) started
 ```
 
+You may now visit http://localhost:8000 in your browser to access the application
 
 ## Optional Step 4 : Clean Up
 After you have tested the application you may remove the docker images and containers by executing the following commands.
